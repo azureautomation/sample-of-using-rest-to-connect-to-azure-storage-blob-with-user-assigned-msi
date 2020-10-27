@@ -1,0 +1,20 @@
+{
+    "Author": "Ben Wilkinson",
+    "ContentSize": 2522,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/sample-of-using-rest-to-connect-to-azure-storage-blob-with-user-assigned-msi/master/bearer_token_access_blob_using_MSI.ps1",
+    "DownloadCount": 275,
+    "Id": "Sample-of-using-REST-to-e327b094",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 472,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2020-2-9T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "https://docs.microsoft.com/en-us/rest/api/storageservices/https://docs.microsoft.com/en-us/rest/api/storageservices/get-blobhttps://docs.microsoft.com/en-us/rest/api/storageservices/get-blob#request-headersUser User Assigned Managed Service Identity (MSI) for Azure Blob..",
+    "Title": "Sample of using REST to connect to Azure storage Blob with user assigned MSI",
+    "UpdatedDate": "2020-2-9T00:00:00",
+    "Url": "https://github.com/azureautomation/sample-of-using-rest-to-connect-to-azure-storage-blob-with-user-assigned-msi",
+    "UserTags": "Azure Blob Storage, REST API, Azure MSI"
+}
